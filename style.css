@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Arial";
+}
+
+header{
+    background-color: #222222;
+    text-align: center;
+    color: #007fff;
+    padding: 40px;
+}
+
+header h1{
+    font-size: 45px;
+}
+
+#tabs > div > h1{
+    margin-bottom: 10px;
+}
